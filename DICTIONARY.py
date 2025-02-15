@@ -1,0 +1,35 @@
+DATA = {
+             "ACT": "TO DO SOMETHING",
+             "AGE": "HOW OLD SOMETHING IS",
+             "AIR": "THE INVISIBLE GAS WE BREATH",
+             "ARM": "A LIMB ON THE BODY",
+             "ASK": "TO REQUEST INFORMATION",
+             "BAG": "A FLEXIBLE CONTAINER",
+             "BAR": "A SOLID, STRAIGHT OBJECT",
+             "BAT": "A FLYING MAMMAL OR A CLUB",
+             "BED": "A PLACE TO SLEEP",
+             "BEE": "AN INSECT THAT MAKES HONEY",
+             "BET": "TO GAMBLE OR RISK MONEY",
+             "BIT": "A SMALL PIECE OF SOMETHING",
+             "BOX": "A CONTAINER WITH FLAT SIDES",
+             "BOY": "A YOUNG MALE PERSON",
+             "CAR": "A VEHICLE FOR TRAVEL",
+             "CAT": "A SMALL, FURRY PET",
+             "CUP": "A SMALL CONTAINER FOR DRINKS",
+             "CUT": "TO SLICE OR DIVIDE",
+             "DAY": "A 24-HOUR PERIOD",
+             "DOG": "A LOYAL, FOUR-LEGGED PET",
+             "EAR": "THE BODY PART USED FOR HEARING",
+             "EAT": "TO CONSUME FOOD",
+             "EGG": "A ROUND OBJECT LAID BY BIRDS",
+             "EYE": "THE ORGAN USED FOR SEEING",
+             "FAN": "A DEVICE THAT MOVES AIR",
+             "FIX": "TO REPAIR SOMETHING BROKEN",
+             "GUN": "A WEAPON THAT SHOOTS BULLET",
+             "HAT": "A COVERING FOR THE HEAD",
+             "HOT": "HAVING HIGH TEMPERATURE",
+             "FUN": "SOMETHING THAT BRINGS JOY"
+              }
+
+a = input("SAY: ")
+print(DATA[a])
